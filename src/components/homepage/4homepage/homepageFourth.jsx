@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Homefourth() {
     return (
-        <div className="bg-[url('src/assets/images/homefourth.svg')] bg-no-repeat bg-center bg-cover min-h-[60vh] md:min-h-[70vh] lg:min-h-[80vh] min-w-screen flex flex-col items-center justify-center text-center text-white gap-10 p-14">
+        <div className="bg-[url('../images/homefourth.svg')] bg-no-repeat bg-center bg-cover min-h-[60vh] md:min-h-[70vh] lg:min-h-[80vh] min-w-screen flex flex-col items-center justify-center text-center text-white gap-10 p-14">
             <p className="font-bold text-2xl md:text-4xl lg:text-6xl">
                 NO ADDED TRANS FAT, MSG, ARTIFICIAL FLAVORS, OR COLORS
             </p>

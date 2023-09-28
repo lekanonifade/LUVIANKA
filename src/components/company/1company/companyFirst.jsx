@@ -3,9 +3,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React, { useState } from 'react';
 
 const images = [
-    'src/assets/images/companyfull.svg',
-    'src/assets/images/companyhalf1.svg',
-    'src/assets/images/companyhalf2.svg',
+    '../images/companyfull.svg',
+    '../images/companyhalf1.svg',
+    '../images/companyhalf2.svg',
 ];
 
 const Companyfirst = () => {

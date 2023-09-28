@@ -9,60 +9,60 @@ export default function Homesixth() {
             </div>
             <div className="flex gap-5 text-center text-white font-bold text-2xl overflow-x-scroll hide-scroll">
                 {/* COOKED HAMS */}
-                <div className="product-container bg-[url('src/assets/images/cookedhams.svg')] h-72 flex flex-col justify-end relative">
+                <div className="product-container bg-[url('../images/cookedhams.svg')] h-72 flex flex-col justify-end relative">
                     <p className="w-52 h-10 md:w-48 text-background">COOKED HAMS</p>
                 </div>
 
                 {/* BACON */}
-                <div className="product-container bg-[url('src/assets/images/bacon.svg')] h-72 flex flex-col justify-end relative">
+                <div className="product-container bg-[url('../images/bacon.svg')] h-72 flex flex-col justify-end relative">
                     <p className="w-52 h-10 md:w-48 text-background">BACON</p>
                 </div>
 
                 {/* SPECIAL SPINES */}
-                <div className="product-container bg-[url('src/assets/images/specialspines.svg')] h-72 flex flex-col justify-end relative">
+                <div className="product-container bg-[url('../images/specialspines.svg')] h-72 flex flex-col justify-end relative">
                     <p className="w-52 h-10 md:w-48 text-background">SPECIAL SPINES</p>
                 </div>
 
                 {/* SPECIAL SPINES 2 */}
-                <div className="product-container bg-[url('src/assets/images/specialspines2.svg')] h-72 flex flex-col justify-end relative">
+                <div className="product-container bg-[url('../images/specialspines2.svg')] h-72 flex flex-col justify-end relative">
                     <p className="w-52 h-10 md:w-48 text-background">SPECIAL SPINES</p>
                 </div>
                 {/* COOKED HAMS */}
-                <div className="product-container bg-[url('src/assets/images/cookedhams.svg')] h-72 flex flex-col justify-end relative">
+                <div className="product-container bg-[url('../images/cookedhams.svg')] h-72 flex flex-col justify-end relative">
                     <p className="w-52 h-10 md:w-48 text-background">COOKED HAMS</p>
                 </div>
 
                 {/* BACON */}
-                <div className="product-container bg-[url('src/assets/images/bacon.svg')] h-72 flex flex-col justify-end relative">
+                <div className="product-container bg-[url('../images/bacon.svg')] h-72 flex flex-col justify-end relative">
                     <p className="w-52 h-10 md:w-48 text-background">BACON</p>
                 </div>
 
                 {/* SPECIAL SPINES */}
-                <div className="product-container bg-[url('src/assets/images/specialspines.svg')] h-72 flex flex-col justify-end relative">
+                <div className="product-container bg-[url('../images/specialspines.svg')] h-72 flex flex-col justify-end relative">
                     <p className="w-52 h-10 md:w-48 text-background">SPECIAL SPINES</p>
                 </div>
 
                 {/* SPECIAL SPINES 2 */}
-                <div className="product-container bg-[url('src/assets/images/specialspines2.svg')] h-72 flex flex-col justify-end relative">
+                <div className="product-container bg-[url('../images/specialspines2.svg')] h-72 flex flex-col justify-end relative">
                     <p className="w-52 h-10 md:w-48 text-background">SPECIAL SPINES</p>
                 </div>
                 {/* COOKED HAMS */}
-                <div className="product-container bg-[url('src/assets/images/cookedhams.svg')] h-72 flex flex-col justify-end relative">
+                <div className="product-container bg-[url('../images/cookedhams.svg')] h-72 flex flex-col justify-end relative">
                     <p className="w-52 h-10 md:w-48 text-background">COOKED HAMS</p>
                 </div>
 
                 {/* BACON */}
-                <div className="product-container bg-[url('src/assets/images/bacon.svg')] h-72 flex flex-col justify-end relative">
+                <div className="product-container bg-[url('../images/bacon.svg')] h-72 flex flex-col justify-end relative">
                     <p className="w-52 h-10 md:w-48 text-background">BACON</p>
                 </div>
 
                 {/* SPECIAL SPINES */}
-                <div className="product-container bg-[url('src/assets/images/specialspines.svg')] h-72 flex flex-col justify-end relative">
+                <div className="product-container bg-[url('../images/specialspines.svg')] h-72 flex flex-col justify-end relative">
                     <p className="w-52 h-10 md:w-48 text-background">SPECIAL SPINES</p>
                 </div>
 
                 {/* SPECIAL SPINES 2 */}
-                <div className="product-container bg-[url('src/assets/images/specialspines2.svg')] h-72 flex flex-col justify-end relative">
+                <div className="product-container bg-[url('../images/specialspines2.svg')] h-72 flex flex-col justify-end relative">
                     <p className="w-52 h-10 md:w-48 text-background">SPECIAL SPINES</p>
                 </div>
             </div>

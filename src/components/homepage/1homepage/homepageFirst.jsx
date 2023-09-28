@@ -3,7 +3,7 @@ import React from "react";
 export default function Homefirst() {
     return (
         <div className="p-5 md:p-10 lg:py-10 lg:p-24">
-            <div className="bg-[url('src/assets/images/homefirstbg.svg')] lg:bg-[url('src/assets/images/homefirstbgmd.svg')] rounded-3xl bg-no-repeat bg-center bg-cover min-h-screen min-w-screen flex flex-col items-center justify-center text-center text-white gap-5">
+            <div className="bg-[url('../images/homefirstbg.svg')] lg:bg-[url('../images/homefirstbgmd.svg')] rounded-3xl bg-no-repeat bg-center bg-cover min-h-screen min-w-screen flex flex-col items-center justify-center text-center text-white gap-5">
                 <p className="text-lg md:text-3xl">Elevate Your Everyday,</p>
                 <div className="flex flex-col gap-5 text-3xl md:text-6xl font-bold">
                     <div className="flex flex-row gap-1">

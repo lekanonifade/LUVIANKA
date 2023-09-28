@@ -19,7 +19,7 @@ export default function Homethird() {
                 </div>
             </div>
             <div>
-                <img src="src/assets/images/homethird.svg" alt="" />
+                <img src="../images/homethird.svg" alt="" />
             </div>
         </div>
     );

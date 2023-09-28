@@ -1,6 +1,6 @@
 export default [
     {
-        image: "src/assets/images/productimage1.svg",
+        image: "../images/productimage1.svg",
         title: "PORK LOIN",
         subtitle: "SUBTITLE",
         note: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -8,7 +8,7 @@ export default [
         price: 10.99,
     },
     {
-        image: "src/assets/images/productimage2.svg",
+        image: "../images/productimage2.svg",
         title: "PORK LOIN",
         subtitle: "SUBTITLE",
         note: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -16,7 +16,7 @@ export default [
         price: 10.99,
     },
     {
-        image: "src/assets/images/productimage3.svg",
+        image: "../images/productimage3.svg",
         title: "PORK LOIN",
         subtitle: "SUBTITLE",
         note: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -24,7 +24,7 @@ export default [
         price: 10.99,
     },
     {
-        image: "src/assets/images/productimage4.svg",
+        image: "../images/productimage4.svg",
         title: "PORK LOIN",
         subtitle: "SUBTITLE",
         note: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -32,7 +32,7 @@ export default [
         price: 10.99,
     },
     {
-        image: "src/assets/images/productimage5.svg",
+        image: "../images/productimage5.svg",
         title: "PORK LOIN",
         subtitle: "SUBTITLE",
         note: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -40,7 +40,7 @@ export default [
         price: 10.99,
     },
     {
-        image: "src/assets/images/productimage6.svg",
+        image: "../images/productimage6.svg",
         title: "PORK LOIN",
         subtitle: "SUBTITLE",
         note: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",

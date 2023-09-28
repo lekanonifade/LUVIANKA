@@ -34,7 +34,7 @@ const Header = () => {
                                 <a href="#home" onClick={closeNavbar}>
                                     <NavLink to="/">
                                         <img
-                                            src="src/assets/images/luvianka.svg"
+                                            src="../images/luvianka.svg"
                                             alt="luvianka"
                                             className="w-14"
                                         />
