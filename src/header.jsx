@@ -22,7 +22,7 @@ const Header = () => {
 
     useEffect(() => {
         window.scrollTo(0, 0);
-    }, [location.key]); // Use location.key as the dependency to detect route changes
+    }, [location.key]);
 
     return (
         <div>
